@@ -130,14 +130,9 @@ Ablation studies
 - The notebook contains well-commented components: `DatasetManager`, `BaselineModel`, `MCDropoutModel`, `EvidentialModel`, `UnsupervisedConfidenceMetric`, `Trainer`, `DeepEnsemble`, `ComprehensiveEvaluator`, `Visualizer`, and `AblationStudies`.
 - The main pipeline function `main_pipeline(...)` orchestrates dataset loading, training (or loading), evaluation, and plotting.
 
-## Suggested next improvements (low risk)
-
-- Add a `requirements.txt` or `environment.yml` for exact dependency pinning.
-- Extract the notebook core functionality into a small Python package/module (e.g., `sdnm/`) and add a `run_experiment.py` script for easier CLI runs and CI.
-- Add smoke unit tests and a GitHub Actions workflow to run the smoke tests on PRs.
-
 ---
 
 ## License
+
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file.
