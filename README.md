@@ -297,7 +297,7 @@ Full ablation plots in `images/ablation_*.png`.
 
 ## Related Work
 
-- [UniTSFM](https://github.com/royxforge/uniftsm) - The per-horizon confidence calibration in UniTSFM's uncertainty-weighted ensemble shares methodology with the unsupervised confidence metric developed here.
+- [Unified Time Series Foundation Model](https://github.com/royxforge/unified-time-series-foundation-model) - The per-horizon confidence calibration in UniTSFM's uncertainty-weighted ensemble shares methodology with the unsupervised confidence metric developed here.
 
 ---
 
