@@ -26,6 +26,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Ablation Studies](#ablation-studies)
+- [Related Work](#related-work)
 - [Citation](#citation)
 - [License](#license)
 
@@ -291,6 +292,12 @@ Full ablation plots in `images/ablation_*.png`.
   <a href="images/ablation_ensemble_size.png"><img src="images/ablation_ensemble_size.png" alt="Ablation: ensemble size" width="32%"></a>
   <a href="images/ablation_unsupervised_weights.png"><img src="images/ablation_unsupervised_weights.png" alt="Ablation: component weights" width="32%"></a>
 </p>
+
+---
+
+## Related Work
+
+- [UniTSFM](https://github.com/royxforge/uniftsm) - The per-horizon confidence calibration in UniTSFM's uncertainty-weighted ensemble shares methodology with the unsupervised confidence metric developed here.
 
 ---
 
